@@ -1,0 +1,11 @@
+.paragraph2 {
+    font-size: 19px;
+    font-family: sans-serif;
+    width: 100px;
+    border: 1px solid orange;
+    padding: 30px;
+}
+
+.hidden {
+    display: none;
+}
